@@ -1,0 +1,17 @@
+*{
+    zoom: 0.63;
+}
+canvas{
+    margin-top:30px;
+    display: block ;
+    margin-left: auto;
+    margin-right: auto;
+    zoom: 1; 
+}
+body{
+    background-image: url(https://user-images.githubusercontent.com/64878501/92732359-f71f7f00-f393-11ea-918b-494ef0f25ce9.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-color: black;
+    zoom: 1;
+}
